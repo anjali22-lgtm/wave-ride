@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌊 Wave Rider 🌊
 
 Wave Rider is a fun, browser-based skateboarding game where you ride waves, perform tricks, avoid obstacles, and rack up combos! Built with **HTML, CSS, and JavaScript**, it features parallax backgrounds, trick combos, and sound effects.  
@@ -41,3 +42,6 @@ Perform consecutive tricks to trigger a **combo multiplier** and increase your s
 
 ```bash
 git clone <your-repo-url>
+=======
+# wave-ride
+>>>>>>> f36c5c7efa7f2e6933709e5530ccc0bb70f95d44
